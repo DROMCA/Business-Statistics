@@ -24,7 +24,7 @@
 
 # Lecture inventory
 # Remove the leading # only after a lecture file is finalized.
-# !/GBU 2301/lectures/week_01/w01_course_intro_and_data.ipynb
+!/GBU 2301/lectures/week_01/w01_course_intro_and_data.ipynb
 # !/GBU 2301/lectures/week_01/w01_course_intro_and_data_ws.ipynb
 # !/GBU 2301/lectures/week_02/w02_tabular_and_graphical_displays.ipynb
 # !/GBU 2301/lectures/week_02/w02_tabular_and_graphical_displays_ws.ipynb
