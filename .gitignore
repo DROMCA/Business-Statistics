@@ -2,7 +2,7 @@
 /*
 
 # Keep the ignore rules and allow traversal into GBU 2301.
-#!/.gitignore
+/.gitignore
 !/readme.txt
 !/install.ipynb
 !/requirements.txt
